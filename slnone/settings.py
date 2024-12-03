@@ -105,7 +105,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'venu',
-        'PASSWORD':'varshapallapu12',
+        'PASSWORD':'pallapuvenuv12',
         'HOST':  'database-1.czak2esqks2n.eu-west-2.rds.amazonaws.com',
 
         'USER':'admin',
