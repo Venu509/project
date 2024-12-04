@@ -104,9 +104,9 @@ EMAIL_HOST_PASSWORD = 'vlfe zxrg actb ylvb'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'venu',
-        'PASSWORD':'pallapuvenuv12',
-        'HOST':  'database-1.czak2esqks2n.eu-west-2.rds.amazonaws.com',
+        'NAME': 'admin',
+        'PASSWORD':'kavyapallapu',
+        'HOST':  'database-2.czak2esqks2n.eu-west-2.rds.amazonaws.com',
 
         'USER':'admin',
         'OPTIONS': {
